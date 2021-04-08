@@ -19,6 +19,7 @@
     display: block;
   }
 
+  // form 
   .field {
     margin-bottom: 10px;
 
@@ -42,7 +43,13 @@
     }
   }
 
+  // books#show
   p {
     margin: 33px;
+  }
+
+  // flashメッセージ
+  .notice {
+    color: green;
   }
 }
